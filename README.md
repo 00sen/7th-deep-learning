@@ -3,6 +3,7 @@
 ### A01703572
 
 # El archivo del proyecto es el que se llama "pytorch_transfer.ipynb"
+## Dicho archivo también tiene la documentación, no se documentó en un archivo externo
 ## Para cargar y usar un modelo entrenado por el archivo anterior, usar el archivo "load-use-model.ipynb"
 
 ### La data que se usa en el proyecto es muy grande para subirse al repo, esta se encuentra en drive:
